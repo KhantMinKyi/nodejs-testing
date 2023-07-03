@@ -44,10 +44,17 @@ nav a {
   color: #777;
   font-weight: 300;
 }
+.footer_div {
+  background-color: #222;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+}
 footer {
   color: #777;
-  text-align: center;
-  margin: 80px auto 20px;
+  padding: 30px;
 }
 h2 {
   margin-bottom: 40px;
